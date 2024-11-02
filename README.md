@@ -1,7 +1,10 @@
 # Taller 6 Programacion y Algoritmia 14402
 Universidad Pontificia Bolivariana 
+
 Presentado a. Miguel A. Ortiz Padilla
+
 1/11/2024
+
 SISTEMA DE INVENTARIO DE TIENDA SHAMAN TOOLS
 
 Estudiantes:
