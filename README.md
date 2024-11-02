@@ -3,7 +3,7 @@ Universidad Pontificia Bolivariana
 
 Presentado a. Miguel A. Ortiz Padilla
 
-1/11/2024
+1 de Noviembre de 2024
 
 SISTEMA DE INVENTARIO DE TIENDA SHAMAN TOOLS
 
